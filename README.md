@@ -1,2 +1,3 @@
 # agoncal-petstore-ee6
-Pet Store for full JEE training
+Agoncal PetStore is my first Java EE application
+The application is a web app for buy pets
